@@ -1,4 +1,4 @@
-Finalmente entre todos los integrantes contestan estas preguntas con sus palabras :
+﻿Finalmente entre todos los integrantes contestan estas preguntas con sus palabras :
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 	Si, se puede ver los cambios.
 
@@ -6,8 +6,11 @@ b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 	Si, se pueden ver.
 
 c-¿Si BETA agrega un archivo los demás integrantes lo ven?
-	
+	Los demas integrantes pueden verlo si estan avisados de los cambios y hacen git pull para 
+	actualizar sus repositorios, de lo contrario al querer subir un archivo les marcará un error
 d-¿De qué forma se comunicaron ustedes?
+	Utilizamos whatsapp 
+	
 	
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 	
